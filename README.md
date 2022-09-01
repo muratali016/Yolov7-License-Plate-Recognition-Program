@@ -2,7 +2,9 @@
 # Yolov7-License-Plate-Recognition-Program
 
 
-https://user-images.githubusercontent.com/77502485/188000884-3ab01e54-cd1a-429f-8ea7-4dd6b63dc534.mp4
+
+
+https://user-images.githubusercontent.com/77502485/188001153-a2377cc3-bb41-4b43-80de-a0a08995f1c9.mp4
 
 
 
