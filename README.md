@@ -17,7 +17,7 @@ Features
 
 ## Steps to run Code
 * Download the project files by link: https://drive.google.com/drive/folders/1i2m9rY8wdYdGmz3jo65C1zOcR2O-trln?usp=sharing
-* Refer to your project files to this colab notebook: https://colab.research.google.com/drive/1_8Ic31j422YjWGMxzDx0SRIINVQkYad5?usp=sharing
+* make sure the project files are referenced correctly in colab notebook (%cd /content/drive/MyDrive/yolo_Car/yolov7): https://colab.research.google.com/drive/1_8Ic31j422YjWGMxzDx0SRIINVQkYad5?usp=sharing
 * You are good to go!
 
 ### Using License plate recognition
