@@ -6,8 +6,7 @@ https://user-images.githubusercontent.com/77502485/188004361-9a26744d-f553-4336-
 
 * **Line crossing cars counter part "detect_cross.py"**
 
-https://user-images.githubusercontent.com/77502485/188002724-7a863ddb-9b28-491e-9af0-32556609bb2f.mp4 
-
+https://user-images.githubusercontent.com/77502485/188014954-5e923e3b-c22f-408a-8163-3695cecd0176.mp4
 
 
 Features
