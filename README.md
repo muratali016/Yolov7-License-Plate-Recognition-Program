@@ -21,8 +21,8 @@ Features
 * You are good to go!
 
 ### Using License plate recognition
- ``` 
- %cd /content/drive/MyDrive/yolo_Car/yolov7
+
+ ```%cd /content/drive/MyDrive/yolo_Car/yolov7
 !python detect_plate.py --weights /content/drive/MyDrive/yolo_Car/plate/weights/best.pt --conf 0.1 --source /content/drive/MyDrive/yolo_Car/Plate.mp4 --video_frame 10``` 
 
 ### Using line crossing car counter plate 
