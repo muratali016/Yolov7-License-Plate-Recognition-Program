@@ -2,6 +2,7 @@
 # Yolov7-License-Plate-Recognition-Program
 * License plate part "detect_plate.py"
 https://user-images.githubusercontent.com/77502485/188004361-9a26744d-f553-4336-be2f-947a433ee558.mp4
+
 * Line crossing cars counter part "detect_cross.py"
 https://user-images.githubusercontent.com/77502485/188002724-7a863ddb-9b28-491e-9af0-32556609bb2f.mp4 
 
